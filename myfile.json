@@ -1,0 +1,49 @@
+{
+    "Books": [
+        {
+            "author": "Bayo Ogunjimi",
+            "authors": "Bayo Ogunjimi, Abdul Rasheed Na'allah",
+            "dimensions": "8.30 (w) x 5.30 (h) x 0.80 (d)",
+            "id": "7",
+            "isbn10": "1592211518",
+            "isbn13": "9781590000000.0",
+            "lexile": "null",
+            "pages": "146.0",
+            "price": "$23.95",
+            "publisher": "Africa World Press",
+            "pubyear": "2006",
+            "subjects": "Africa - Anthropology & Sociology, African Folklore & Mythology, Oral Tradition & Storytelling, General & Miscellaneous African Literature - Literary Criticism, African Literature Anthologies, Fables, Fairy Tales, & Folk Tales - Literary Criticism",
+            "title": "Introduction to African Oral Literature and Performance"
+        },
+        {
+            "author": "Reynolds Price",
+            "authors": "Reynolds Price, Clifton Dowell, Reynolds Price",
+            "dimensions": "8.36 (w) x 8.28 (h) x 0.50 (d)",
+            "id": "474",
+            "isbn10": "945575939",
+            "isbn13": "9780950000000.0",
+            "lexile": "null",
+            "pages": "128.0",
+            "price": "$1.99",
+            "publisher": "Algonquin Books of Chapel Hill",
+            "pubyear": "1992",
+            "subjects": "Outdoor & Recreational Areas, American Literature Anthologies",
+            "title": "Out on the Porch: An Evocation in Words and Pictures"
+        },
+        {
+            "author": "Jesse Grant",
+            "authors": "Jesse Grant",
+            "dimensions": "5.40 (w) x 8.50 (h) x 0.80 (d)",
+            "id": "424",
+            "isbn10": "1555838278",
+            "isbn13": "9781560000000.0",
+            "lexile": "null",
+            "pages": "368.0",
+            "price": "$1.99",
+            "publisher": "Alyson Books",
+            "pubyear": "2004",
+            "subjects": "Fiction, American Literature Anthologies, Anthologies, Gay & Lesbian Studies, Fiction Subjects",
+            "title": "Friction, Volume 7: Best Gay Erotic Fiction"
+        }
+    ]
+}
