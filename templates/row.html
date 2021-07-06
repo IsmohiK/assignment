@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </script>
 </head>
   <body style="padding-top:50px">
     <div class="container" style="background:black">
@@ -20,13 +21,13 @@
   <div class="row">
     <div class="col-sm-7">
       <br>
-      <div style="font-size:20px;padding-top:10px;padding-left:20px;color:black"><b>Filter Books based on below options</b></div>
+      <div style="font-size:20px;padding-top:10px;padding-left:20px;color:black"><b>Filter Books based on row number</b></div>
   <form method='POST'style="padding-top:10px;padding-left:20px;color:black">
-	<ul>
-	<li><a href = "http://10.100.84.225:5005/api/home/row">Based on rows</a></li>
-	<li><a href = "http://10.100.84.225:5005/api/home/column">Based on Column name </a></li>
-       </ul>
-    <br> <br>
+    <label for="num_rows">Enter Number of rows to display</label> <br>
+    <input type="number" placeholder="1" name="row_num"><br><br>
+    <input style="border: none; border-radius: 8px;color: #fff;background-color: #4CAF50;"     type='submit'></form>
+    <br>
+    <br>
 </div>
 </div>
 </body>
